@@ -1,0 +1,9 @@
+/docs/
+/lib/
+/bin/
+/.shards/
+*.dwarf
+
+top_ten_tasks_stats.csv
+users_stats.csv
+
